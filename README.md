@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" src="assets/fromdeno.svg">
+  <img height="100" src="public/assets/fromdeno.svg">
   <h1 align="center">@fromdeno</h1>
 </div>
 
